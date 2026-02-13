@@ -1,0 +1,7 @@
+{
+  "name": "ADBAuction Mobile",
+  "description": "A comprehensive mobile auction marketplace for browsing lots, placing real-time bids, managing memberships, and listing items for sale.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
